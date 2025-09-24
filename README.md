@@ -1,16 +1,20 @@
-## Hi there 👋
+# Ramsey McGrath
 
-<!--
-**ramseymcgrathfd/ramseymcgrathfd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Staff Compute-Operations Engineer @ FanDuel**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Focus Areas
+- **Kubernetes & Compute** – Multi-tenant EKS, Outposts integration, and node lifecycle automation  
+- **Infrastructure as Code** – Terraform modules and pipelines for consistent, reliable environments  
+- **Observability** – Vector, Datadog, Loki, and custom pipelines for logs and metrics  
+- **Networking** – AWS VPC, DNS, Route53 Resolver, hybrid connectivity  
+
+---
+
+### 📌 Current Priorities
+- Scaling compute platforms across regions and Outposts  
+- Building developer-facing tooling to streamline day-to-day operations  
+- Improving monitoring and pipelines for faster incident response and clearer insights  
+
+---
