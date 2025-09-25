@@ -1,7 +1,7 @@
+![Fanduel](https://ok12static.oktacdn.com/fs/bco/1/fs0a41kkjaIEvg35i5d7)
 # Ramsey McGrath
 
 **Staff Compute-Operations Engineer @ FanDuel**
-![Fanduel](https://ok12static.oktacdn.com/fs/bco/1/fs0a41kkjaIEvg35i5d7)
 
 ---
 
