@@ -18,3 +18,18 @@
 - Improving monitoring and pipelines for faster incident response and clearer insights  
 
 ---
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com//ramseymcgrathfd/Profile-snake-gif/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com//ramseymcgrathfd/Profile-snake-gif/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com//ramseymcgrathfd/Profile-snake-gif/output/github-contribution-grid-snake.svg"
+  />
+</picture>
